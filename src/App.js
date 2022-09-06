@@ -11,6 +11,17 @@ function App() {
         <main>
           <Dictionary />
         </main>
+        <footer>
+          <a
+            href="https://github.com/ladyami/dictionary-app-project"
+            target="_blank"
+            class="source"
+            rel="noreferrer"
+          >
+            Open Source Code{" "}
+          </a>
+          <small>By Amina Oyegoke</small>
+        </footer>
       </div>
     </div>
   );
