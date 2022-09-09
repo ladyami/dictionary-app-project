@@ -1,0 +1,21 @@
+body {
+  background: #204956;
+}
+footer a {
+  color: #ebe1e1;
+  text-decoration: none;
+}
+.App-header {
+  margin: 30px 0;
+  text-align: center;
+  color: #ebe1e1;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.App footer {
+  text-align: center;
+  margin: 30px 0;
+}
+.App small {
+  color: #ebe1e1;
+}
