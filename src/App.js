@@ -10,7 +10,10 @@ function App() {
           <h1>Dictionary</h1>
         </header>
         <main>
-          <Dictionary defaultkeyword="Welcome" />
+          <Dictionary
+            defaultkeyword="welcome
+          "
+          />
         </main>
         <footer>
           <a

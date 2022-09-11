@@ -1,6 +1,10 @@
 body {
   background: #204956;
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 footer a {
   color: #ebe1e1;
   text-decoration: none;
